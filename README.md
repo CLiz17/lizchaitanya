@@ -1,2 +1,2 @@
 #### Portfolio V2
-## Check Out : [lizchaitanya.xyz](http://lizchaitanya.xyz)
+## Check Out : []([http://lizchaitanya.xyz](https://cliz17.github.io/lizchaitanya.xyz/))
