@@ -1,1 +1,1 @@
-## Check Out : [](<[lizchaitanya.space](http://lizchaitanya.space)>)
+## Check Out : [lizchaitanya.space](http://lizchaitanya.space)
