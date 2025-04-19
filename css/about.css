@@ -170,6 +170,20 @@ h1, h2, h3 {
     margin-left: 10px;
 }
 
+.skill-h {
+    border-radius: 12px;
+    margin: 10px;
+    border: 2px solid #d0006f;
+    padding: 8px 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.skill-h span{
+    color: #d0006f;
+}
+
 @media only screen and (max-width: 600px){
     iframe {
         width: 100%
